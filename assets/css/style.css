@@ -42,6 +42,22 @@ body {
     margin-left: 25px;
 }
 
+.go-to-top {
+    background-color: #d9dcd6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    text-align: center;
+    height: 40px;
+    width: 7%;
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+}
+.go-to-top h1 nav a {
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
